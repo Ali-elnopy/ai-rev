@@ -64,7 +64,7 @@ function Contact() {
                 <input type="text"className="form-input" />
               </div>
               <div>
-                <label htmlFor="" className="form-input-label">Full Name</label>
+                <label htmlFor="" className="form-input-label">Email</label>
                 <input type="email"className="form-input" />
               </div>
               <div>
