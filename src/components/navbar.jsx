@@ -7,7 +7,7 @@ const links = [
     { name: "Contact", href: "#contact" }
 ]
 function NavBar() {
-    const [MobileMenuOpen, setMobileMenuOpen] = useState
+    const [MobileMenuOpen, setMobileMenuOpen] = useState(false)
     return (
         <nav className='bg-white/80 backdrop-blur-md shadow-sm fixed w-full z-50'>
             <div className="app-container flex justify-between items-center h-16">
